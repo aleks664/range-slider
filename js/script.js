@@ -5,7 +5,11 @@ class RangeSlider extends HTMLElement {
         this.handleMin = this.querySelector('.handle-min');
         this.handleMax = this.querySelector('.handle-max');
     }
-    getSliderCoords () {
+    init() {
+
+    }
+
+    getElemCoords () {
 
     }
 
